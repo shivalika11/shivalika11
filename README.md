@@ -1,76 +1,75 @@
-## Hi there 👋
+# 👋 Shivalika Thakur
 
-<!--
-**shivalika11/shivalika11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Backend-focused developer building data-driven systems with Java and Python.
-
-Currently working on real-world projects involving analytics, anomaly detection, and system design — not just UI demos.
+Backend-focused developer building data-driven systems using Java and Python.  
+Currently working on real-world problems involving analytics, anomaly detection, and system design.
 
 ---
 
-## ⚙️Tech Stack
-  Languages
-- Java (core, OOP)
-- Python (data processing, frame works basics)
-- SQL
+## ⚙️ Tech Stack
 
-  Backend
-- Spring Boot (learning)
-- REST API design
+**Languages**
+- Java  
+- Python  
+- SQL  
 
-  Data & Tools
-- MySQL / PostgreSQL
-- Git & GitHub
-- CSV data processing
-- Basic ML integration (Python)
+**Backend**
+- Spring Boot (learning and applying)  
+- REST API design  
+
+**Data & Tools**
+- MySQL / PostgreSQL  
+- Git & GitHub  
+- CSV data processing  
+- Basic Machine Learning integration  
 
 ---
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 
-1. Energy Consumption Analytics Platform
-A backend-heavy system to analyze electricity usage patterns and predict future consumption.
+### ⚡ Energy Consumption Analytics Platform
+Backend system for analyzing electricity usage patterns and predicting future demand.
 
-**What I built:**
-- Designed data ingestion pipeline from CSV datasets
-- Structured relational database for time-series consumption data
-- Implemented consumption analysis logic (trend + anomaly detection)
-- Integrated Python-based forecasting model with Java backend
+- Built data ingestion pipeline from CSV datasets  
+- Designed relational database for time-series data  
+- Implemented anomaly detection logic  
+- Integrated Python-based forecasting model  
 
-**Tech:** Java, Spring Boot (in progress), Python, SQL
+**Tech:** Java, Python, SQL  
 
-2. Course/Project Card Web Interface
-Frontend system where each card dynamically opens its own detailed page without hardcoding 100+ pages.
+---
 
-**What I built:**
-- Component-based UI using reusable card structure
-- Dynamic routing logic for scalable page handling
-- Clean layout using HTML, CSS, Bootstrap
+### 🧩 Course / Project Card Interface
+Scalable frontend system where each card dynamically opens its own page without hardcoding multiple pages.
 
-**Tech:** HTML, CSS, Bootstrap, JavaScript, flask frame work
+- Built reusable card components  
+- Implemented dynamic routing logic  
+- Designed clean UI using Bootstrap  
 
+**Tech:** HTML, CSS, Bootstrap, JavaScript  
 
-📌 Experience
+---
 
-No formal industry experience yet.
+### 📦 Supply Chain Risk Analysis (In Progress)
+System aimed at identifying disruptions in supply chains using data patterns.
 
-Focused on building **complex, real-world projects** instead of tutorial-level clones.
-
-🏆 Achievements
-- Selected coursework in:
-  - Data Structures
-  - Database Management Systems
-  - Object-Oriented Programming (Java)
-
-📫 Contact
-- Email: shivalikaworkon@gmail.com  
-- GitHub: https://github.com/shivalika11github.com/
+- Conducted problem research and system design  
+- Explored datasets and planned schema  
+- Structured early backend logic  
 
 ---
 
 ## 📊 Current Focus
 
-- Strengthening backend development
-- Building production-level APIs
-- Integrating ML models into backend systems
-- Writing cleaner, scalable code
+- Building REST APIs with Spring Boot  
+- Improving backend architecture and system design  
+- Integrating ML models into backend systems  
+- Writing clean, maintainable code  
+
+---
+
+## 📫 Contact
+
+- Email: shivalikaworkon@gmail.com  
+- GitHub: https://github.com/shivalika11  
+
+---
