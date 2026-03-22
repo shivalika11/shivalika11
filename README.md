@@ -19,9 +19,7 @@ Currently working on real-world problems involving analytics, anomaly detection,
 **Data & Tools**
 - MySQL / PostgreSQL  
 - Git & GitHub  
-- CSV data processing  
 - Basic Machine Learning integration  
-
 ---
 
 ## 🚀 Featured Projects
@@ -35,7 +33,6 @@ Backend system for analyzing electricity usage patterns and predicting future de
 - Integrated Python-based forecasting model  
 
 **Tech:** Java, Python, SQL  
-
 ---
 
 ### 🧩 Course / Project Card Interface
@@ -46,23 +43,13 @@ Scalable frontend system where each card dynamically opens its own page without 
 - Designed clean UI using Bootstrap  
 
 **Tech:** HTML, CSS, Bootstrap, JavaScript  
-
----
-
-### 📦 Supply Chain Risk Analysis (In Progress)
-System aimed at identifying disruptions in supply chains using data patterns.
-
-- Conducted problem research and system design  
-- Explored datasets and planned schema  
-- Structured early backend logic  
-
 ---
 
 ## 📊 Current Focus
 
-- Building REST APIs with Spring Boot  
+- Building REST APIs with 
 - Improving backend architecture and system design  
-- Integrating ML models into backend systems  
+- Integrating ML models into backend systems learning basics  
 - Writing clean, maintainable code  
 
 ---
