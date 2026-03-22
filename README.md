@@ -8,7 +8,7 @@ Currently working on real-world projects involving analytics, anomaly detection,
 
 ---
 
- ⚙️Tech Stack
+## ⚙️Tech Stack
   Languages
 - Java (core, OOP)
 - Python (data processing, frame works basics)
