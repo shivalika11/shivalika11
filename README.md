@@ -1,62 +1,37 @@
-# 👋 Shivalika Thakur
+# Hi, I'm Shivalika 👋
 
-Backend-focused developer building data-driven systems using Java and Python.  
-Currently working on real-world problems involving analytics, anomaly detection, and system design.
+## Cloud Engineering Student
 
----
+I'm learning Cloud Engineering through hands-on projects and building production-style infrastructure using AWS.
 
-## ⚙️ Tech Stack
+## 🚀 Currently Learning
 
-**Languages**
-- Java  
-- Python  
-- SQL  
+- AWS
+- Linux
+- Docker
+- Networking
+- Git
+- CloudWatch
+- Auto Scaling
+- Load Balancing
 
-**Backend**
-- Spring Boot (learning and applying)  
-- REST API design  
+## 🛠 Tech Stack
 
-**Data & Tools**
-- MySQL / PostgreSQL  
-- Git & GitHub  
-- Basic Machine Learning integration  
----
+- AWS
+- Linux
+- Ubuntu
+- Docker
+- Git
+- Bash
+- Networking
 
-## 🚀 Featured Projects
+## 📂 Current Projects
 
-### ⚡ Energy Consumption Analytics Platform
-Backend system for analyzing electricity usage patterns and predicting future demand.
+- Deploying applications on EC2
+- Load Balancer + Auto Scaling
+- EBS & EFS Labs
+- CloudWatch Monitoring
 
-- Built data ingestion pipeline from CSV datasets  
-- Designed relational database for time-series data  
-- Implemented anomaly detection logic  
-- Integrated Python-based forecasting model  
+## 🎯 Goal
 
-**Tech:** Java, Python, SQL  
----
-
-### 🧩 Course / Project Card Interface
-Scalable frontend system where each card dynamically opens its own page without hardcoding multiple pages.
-
-- Built reusable card components  
-- Implemented dynamic routing logic  
-- Designed clean UI using Bootstrap  
-
-**Tech:** HTML, CSS, Bootstrap, JavaScript  
----
-
-## 📊 Current Focus
-
-- Building REST APIs with 
-- Improving backend architecture and system design  
-- Integrating ML models into backend systems learning basics  
-- Writing clean, maintainable code  
-
----
-
-## 📫 Contact
-
-- Email: shivalikaworkon@gmail.com  
-- GitHub: https://github.com/shivalika11  
-
----
+Build real-world cloud projects and become an AWS Cloud Engineer.
