@@ -1,10 +1,10 @@
-# Hi, I'm Shivalika 👋
+# Hi, I'm Shivalika
 
 ## Cloud Engineering Student
 
 I'm learning Cloud Engineering through hands-on projects and building production-style infrastructure using AWS.
 
-## 🚀 Currently Learning
+##  Currently Learning
 
 - AWS
 - Linux
